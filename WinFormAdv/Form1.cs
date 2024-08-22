@@ -69,8 +69,13 @@ namespace WinFormAdv
             ofd.Filter = "텍스트 파일(*.txt)|*.txt|모든 파일(*.*)|(*.*";
             if(ofd.ShowDialog() == DialogResult.OK)
             {
-               
+               textBox1.Text = System.IO.File.ReadAllText(ofd.FileName);
             }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
