@@ -158,6 +158,7 @@
             // 
             resources.ApplyResources(this.끝내기ToolStripMenuItem, "끝내기ToolStripMenuItem");
             this.끝내기ToolStripMenuItem.Name = "끝내기ToolStripMenuItem";
+            this.끝내기ToolStripMenuItem.Click += new System.EventHandler(this.끝내기ToolStripMenuItem_Click);
             // 
             // 편집ToolStripMenuItem
             // 

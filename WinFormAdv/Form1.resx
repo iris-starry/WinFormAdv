@@ -136,23 +136,14 @@
   <data name="&gt;&gt;메모장정보ToolStripMenuItem.Name" xml:space="preserve">
     <value>메모장정보ToolStripMenuItem</value>
   </data>
-  <data name="자동줄바꿈ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+  <data name="&gt;&gt;축소ToolStripMenuItem.Name" xml:space="preserve">
+    <value>축소ToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;확대하기축소하기ToolStripMenuItem.Name" xml:space="preserve">
     <value>확대하기축소하기ToolStripMenuItem</value>
   </data>
-  <data name="도움말보기ToolStripMenuItem.Text" xml:space="preserve">
-    <value>도움말 보기</value>
-  </data>
   <data name="시간날짜ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
-  </data>
-  <data name="&gt;&gt;모두선택ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;다른이름으로저장ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;새창ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -178,20 +169,20 @@
   <data name="&gt;&gt;toolStripSeparator2.Name" xml:space="preserve">
     <value>toolStripSeparator2</value>
   </data>
+  <data name="&gt;&gt;toolStripSeparator1.Name" xml:space="preserve">
+    <value>toolStripSeparator1</value>
+  </data>
   <data name="인쇄ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
   </data>
   <data name="&gt;&gt;보기ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="새로만들기ToolStripMenuItem.Text" xml:space="preserve">
-    <value>새로 만들기</value>
+  <data name="피드백보내기ToolStripMenuItem.Text" xml:space="preserve">
+    <value>피드백 보내기</value>
   </data>
   <data name="확대하기축소하기ToolStripMenuItem1.Text" xml:space="preserve">
     <value>확대하기/축소하기 기본값 적용</value>
-  </data>
-  <data name="&gt;&gt;toolStripProgressBar1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="보기ToolStripMenuItem.Text" xml:space="preserve">
     <value>보기</value>
@@ -205,8 +196,8 @@
   <data name="메모장정보ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
   </data>
-  <data name="피드백보내기ToolStripMenuItem.Text" xml:space="preserve">
-    <value>피드백 보내기</value>
+  <data name="확대ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>243, 22</value>
   </data>
   <data name="바꾸기ToolStripMenuItem.Text" xml:space="preserve">
     <value>바꾸기</value>
@@ -217,9 +208,6 @@
   <data name="&gt;&gt;bing으로검색ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="&gt;&gt;실행취소ToolStripMenuItem.Name" xml:space="preserve">
     <value>실행취소ToolStripMenuItem</value>
   </data>
@@ -229,14 +217,14 @@
   <data name="&gt;&gt;d.Name" xml:space="preserve">
     <value>d</value>
   </data>
-  <data name="다른이름으로저장ToolStripMenuItem.Text" xml:space="preserve">
-    <value>다른 이름으로 저장</value>
+  <data name="&gt;&gt;서식ToolStripMenuItem.Name" xml:space="preserve">
+    <value>서식ToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;새창ToolStripMenuItem.Name" xml:space="preserve">
-    <value>새창ToolStripMenuItem</value>
+  <data name="&gt;&gt;새로만들기ToolStripMenuItem.Name" xml:space="preserve">
+    <value>새로만들기ToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;잘라내기ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="축소ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>243, 22</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -259,14 +247,8 @@
   <data name="&gt;&gt;페이지설정ToolStripMenuItem.Name" xml:space="preserve">
     <value>페이지설정ToolStripMenuItem</value>
   </data>
-  <data name="복사ToolStripMenuItem.Text" xml:space="preserve">
-    <value>복사</value>
-  </data>
   <data name="이전찾기ToolStripMenuItem.Text" xml:space="preserve">
     <value>이전 찾기</value>
-  </data>
-  <data name="&gt;&gt;toolStripProgressBar1.Name" xml:space="preserve">
-    <value>toolStripProgressBar1</value>
   </data>
   <data name="다음찾기ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
@@ -277,6 +259,12 @@
   <data name="&gt;&gt;바꾸기ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;페이지설정ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;다음찾기ToolStripMenuItem.Name" xml:space="preserve">
+    <value>다음찾기ToolStripMenuItem</value>
+  </data>
   <data name="&gt;&gt;붙여넣기ToolStripMenuItem.Name" xml:space="preserve">
     <value>붙여넣기ToolStripMenuItem</value>
   </data>
@@ -286,8 +274,14 @@
   <data name="&gt;&gt;메모장정보ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;잘라내기ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="서식ToolStripMenuItem.Text" xml:space="preserve">
     <value>서식</value>
+  </data>
+  <data name="글꼴ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
   </data>
   <data name="서식ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>43, 20</value>
@@ -304,14 +298,8 @@
   <data name="&gt;&gt;toolStripSeparator3.Name" xml:space="preserve">
     <value>toolStripSeparator3</value>
   </data>
-  <data name="&gt;&gt;열기ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;복사ToolStripMenuItem.Name" xml:space="preserve">
-    <value>복사ToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;서식ToolStripMenuItem.Name" xml:space="preserve">
-    <value>서식ToolStripMenuItem</value>
+  <data name="&gt;&gt;새창ToolStripMenuItem.Name" xml:space="preserve">
+    <value>새창ToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator5.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -334,17 +322,11 @@
   <data name="&gt;&gt;찾기ToolStripMenuItem.Name" xml:space="preserve">
     <value>찾기ToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;끝내기ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="이동ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
-  </data>
   <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
     <value>800, 24</value>
   </data>
-  <data name="&gt;&gt;toolStripSeparator1.Name" xml:space="preserve">
-    <value>toolStripSeparator1</value>
+  <data name="&gt;&gt;끝내기ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -364,14 +346,11 @@
   <data name="&gt;&gt;시간날짜ToolStripMenuItem.Name" xml:space="preserve">
     <value>시간날짜ToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;페이지설정ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="도움말보기ToolStripMenuItem.Text" xml:space="preserve">
+    <value>도움말 보기</value>
   </data>
-  <data name="확대하기축소하기ToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>243, 22</value>
-  </data>
-  <data name="확대ToolStripMenuItem.Text" xml:space="preserve">
-    <value>확대</value>
+  <data name="자동줄바꿈ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
   </data>
   <data name="&gt;&gt;복사ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -379,7 +358,13 @@
   <data name="새창ToolStripMenuItem.Text" xml:space="preserve">
     <value>새 창</value>
   </data>
+  <data name="d.Text" xml:space="preserve">
+    <value>toolStripStatusLabel1</value>
+  </data>
   <data name="&gt;&gt;붙여넣기ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;열기ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="contextMenuStrip2.Size" type="System.Drawing.Size, System.Drawing">
@@ -397,20 +382,17 @@
   <data name="새로만들기ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
   </data>
-  <data name="찾기ToolStripMenuItem.Text" xml:space="preserve">
-    <value>찾기</value>
-  </data>
   <data name="&gt;&gt;도움말보기ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="새로만들기ToolStripMenuItem.Text" xml:space="preserve">
+    <value>새로 만들기</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Form1</value>
   </data>
   <data name="&gt;&gt;인쇄ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="축소ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>243, 22</value>
   </data>
   <data name="글꼴ToolStripMenuItem.Text" xml:space="preserve">
     <value>글꼴</value>
@@ -426,6 +408,9 @@
   </data>
   <data name="저장ToolStripMenuItem.Text" xml:space="preserve">
     <value>저장</value>
+  </data>
+  <data name="확대하기축소하기ToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>243, 22</value>
   </data>
   <data name="편집ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>43, 20</value>
@@ -451,10 +436,16 @@
   <data name="&gt;&gt;확대ToolStripMenuItem.Name" xml:space="preserve">
     <value>확대ToolStripMenuItem</value>
   </data>
+  <data name="&gt;&gt;toolStripSeparator6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;모두선택ToolStripMenuItem.Name" xml:space="preserve">
     <value>모두선택ToolStripMenuItem</value>
   </data>
   <data name="확대하기축소하기ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="복사ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
   </data>
   <data name="이동ToolStripMenuItem.Text" xml:space="preserve">
@@ -469,6 +460,9 @@
   <data name="삭제ToolStripMenuItem.Text" xml:space="preserve">
     <value>삭제</value>
   </data>
+  <data name="&gt;&gt;인쇄ToolStripMenuItem.Name" xml:space="preserve">
+    <value>인쇄ToolStripMenuItem</value>
+  </data>
   <data name="열기ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
   </data>
@@ -481,8 +475,11 @@
   <data name="toolStripSeparator4.Size" type="System.Drawing.Size, System.Drawing">
     <value>177, 6</value>
   </data>
-  <data name="d.Text" xml:space="preserve">
-    <value>toolStripStatusLabel1</value>
+  <data name="&gt;&gt;찾기ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripProgressBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;서식ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -515,20 +512,20 @@
   <data name="붙여넣기ToolStripMenuItem.Text" xml:space="preserve">
     <value>붙여넣기</value>
   </data>
-  <data name="끝내기ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+  <data name="&gt;&gt;삭제ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;다른이름으로저장ToolStripMenuItem.Name" xml:space="preserve">
     <value>다른이름으로저장ToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;새로만들기ToolStripMenuItem.Name" xml:space="preserve">
-    <value>새로만들기ToolStripMenuItem</value>
-  </data>
   <data name="&gt;&gt;statusStrip1.Type" xml:space="preserve">
     <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;축소ToolStripMenuItem.Name" xml:space="preserve">
-    <value>축소ToolStripMenuItem</value>
+  <data name="&gt;&gt;확대하기축소하기ToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="축소ToolStripMenuItem.Text" xml:space="preserve">
+    <value>축소</value>
   </data>
   <data name="&gt;&gt;파일ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -548,8 +545,8 @@
   <data name="&gt;&gt;축소ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="끝내기ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
   </data>
   <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
     <value>$this</value>
@@ -566,8 +563,8 @@
   <data name="&gt;&gt;저장ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;삭제ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="찾기ToolStripMenuItem.Text" xml:space="preserve">
+    <value>찾기</value>
   </data>
   <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
     <value>menuStrip1</value>
@@ -578,7 +575,7 @@
   <data name="잘라내기ToolStripMenuItem.Text" xml:space="preserve">
     <value>잘라내기</value>
   </data>
-  <data name="복사ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="이동ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
   </data>
   <data name="&gt;&gt;피드백보내기ToolStripMenuItem.Type" xml:space="preserve">
@@ -587,8 +584,11 @@
   <data name="&gt;&gt;도움말ToolStripMenuItem.Name" xml:space="preserve">
     <value>도움말ToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;확대하기축소하기ToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="다른이름으로저장ToolStripMenuItem.Text" xml:space="preserve">
+    <value>다른 이름으로 저장</value>
+  </data>
+  <data name="복사ToolStripMenuItem.Text" xml:space="preserve">
+    <value>복사</value>
   </data>
   <data name="새창ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
@@ -599,8 +599,8 @@
   <data name="&gt;&gt;이전찾기ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;다음찾기ToolStripMenuItem.Name" xml:space="preserve">
-    <value>다음찾기ToolStripMenuItem</value>
+  <data name="&gt;&gt;모두선택ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;새로만들기ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -626,26 +626,26 @@
   <data name="&gt;&gt;toolStripSeparator5.Name" xml:space="preserve">
     <value>toolStripSeparator5</value>
   </data>
-  <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>177, 6</value>
-  </data>
   <data name="잘라내기ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
   </data>
-  <data name="&gt;&gt;인쇄ToolStripMenuItem.Name" xml:space="preserve">
-    <value>인쇄ToolStripMenuItem</value>
+  <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>177, 6</value>
   </data>
-  <data name="글꼴ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+  <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="&gt;&gt;찾기ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;toolStripProgressBar1.Name" xml:space="preserve">
+    <value>toolStripProgressBar1</value>
   </data>
   <data name="인쇄ToolStripMenuItem.Text" xml:space="preserve">
     <value>인쇄</value>
   </data>
-  <data name="&gt;&gt;toolStripSeparator6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="확대ToolStripMenuItem.Text" xml:space="preserve">
+    <value>확대</value>
   </data>
   <data name="&gt;&gt;시간날짜ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -683,8 +683,8 @@
   <data name="&gt;&gt;toolStripSeparator1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="확대ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>243, 22</value>
+  <data name="&gt;&gt;복사ToolStripMenuItem.Name" xml:space="preserve">
+    <value>복사ToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;도움말ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -698,8 +698,8 @@
   <data name="toolStripSeparator5.Size" type="System.Drawing.Size, System.Drawing">
     <value>177, 6</value>
   </data>
-  <data name="축소ToolStripMenuItem.Text" xml:space="preserve">
-    <value>축소</value>
+  <data name="&gt;&gt;다른이름으로저장ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;삭제ToolStripMenuItem.Name" xml:space="preserve">
     <value>삭제ToolStripMenuItem</value>
