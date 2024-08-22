@@ -172,12 +172,6 @@
   <data name="글꼴ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>142, 22</value>
   </data>
-  <data name="확대하기축소하기ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 22</value>
-  </data>
-  <data name="상태표시줄ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 22</value>
-  </data>
   <data name="d.Size" type="System.Drawing.Size, System.Drawing">
     <value>71, 17</value>
   </data>

@@ -302,11 +302,13 @@
             // 
             resources.ApplyResources(this.확대ToolStripMenuItem, "확대ToolStripMenuItem");
             this.확대ToolStripMenuItem.Name = "확대ToolStripMenuItem";
+            this.확대ToolStripMenuItem.Click += new System.EventHandler(this.확대ToolStripMenuItem_Click);
             // 
             // 축소ToolStripMenuItem
             // 
             resources.ApplyResources(this.축소ToolStripMenuItem, "축소ToolStripMenuItem");
             this.축소ToolStripMenuItem.Name = "축소ToolStripMenuItem";
+            this.축소ToolStripMenuItem.Click += new System.EventHandler(this.축소ToolStripMenuItem_Click);
             // 
             // 확대하기축소하기ToolStripMenuItem1
             // 
