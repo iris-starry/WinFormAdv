@@ -333,6 +333,7 @@
             // 
             resources.ApplyResources(this.도움말보기ToolStripMenuItem, "도움말보기ToolStripMenuItem");
             this.도움말보기ToolStripMenuItem.Name = "도움말보기ToolStripMenuItem";
+            this.도움말보기ToolStripMenuItem.Click += new System.EventHandler(this.도움말보기ToolStripMenuItem_Click);
             // 
             // 피드백보내기ToolStripMenuItem
             // 

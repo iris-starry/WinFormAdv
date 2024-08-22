@@ -42,5 +42,10 @@ namespace WinFormAdv
         {
             Application.Exit();
         }
+
+        private void 도움말보기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/progh2/WinFormAdv31/commits/master/");
+        }
     }
 }
