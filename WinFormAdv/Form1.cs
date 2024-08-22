@@ -32,5 +32,10 @@ namespace WinFormAdv
 
 
         }
+
+        private void toolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
